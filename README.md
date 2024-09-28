@@ -3,7 +3,7 @@
 
 <!-- Background added to the div containing the processing image -->
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <img alt="processing" width="400px" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif](https://th.bing.com/th/id/OIP.rLM7H1J6yifwnERgHM7icQHaEK?rs=1&pid=ImgDetMain">
+  <img alt="processing" width="400px" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 </div>
 
 <h3 align="center">Connect with me:</h3>
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<hr style="margin: 40px 0; border: 0; border-top: 1px solid #555;" />
+<hr style="margin: 40px 0; border: 0;#1A1D25;" />
 
 <h3 align="center">Languages I Work With:</h3>
 <p align="center">
@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<hr style="margin: 40px 0; border: 0; border-top: 1px solid #555;" />
+<hr style="margin: 40px 0; border: 0; solid #1A1D25;" />
 
 <h3 align="center">Tools I Use:</h3>
 <p align="center">
