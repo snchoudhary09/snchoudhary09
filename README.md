@@ -3,7 +3,7 @@
 
 <!-- Background added to the div containing the processing image -->
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <img alt="processing" width="400px" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
+  <img alt="processing" width="400px" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif](https://th.bing.com/th/id/OIP.rLM7H1J6yifwnERgHM7icQHaEK?rs=1&pid=ImgDetMain">
 </div>
 
 <h3 align="center">Connect with me:</h3>
