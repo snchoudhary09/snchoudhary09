@@ -63,8 +63,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snchoudhary09&show_icons=true&locale=en&layout=compact&theme=dark" alt="snchoudhary09" />
 </p>
-<h1></h1>
-<h3 align="center">Connect with me:</h3>
+
+<h1 align="center">Connect with me:</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-choudhary-478829259/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sachin Choudhary" height="40" width="40" style="margin: 10px;" />
