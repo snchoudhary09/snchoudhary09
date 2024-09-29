@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sachin Choudhary</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <!-- <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <img alt="processing" width="400px" src="https://sunlightmedia.org/wp-content/uploads/2020/04/Why-the-Right-Text-Editor-is-Crucial-for-Web-Development.png">
+  <img alt="processing" width="400px" src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif">
 </div> -->
-
-<!-- Background added to the div containing the processing image -->
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <img alt="processing" width="400px" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
+<div align="center" style="background-color: #000; padding: 20px; border-radius: 10px;">
+  <img alt="processing" width="400px" src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif" style="background-color: #000; padding: 20px; border-radius: 10px;">
 </div>
 
 <h1 align="center">Skills</h1>
