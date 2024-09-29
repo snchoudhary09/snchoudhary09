@@ -1,26 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sachin Choudhary</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
+<!-- <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+  <img alt="processing" width="400px" src="https://sunlightmedia.org/wp-content/uploads/2020/04/Why-the-Right-Text-Editor-is-Crucial-for-Web-Development.png">
+</div> -->
 
 <!-- Background added to the div containing the processing image -->
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
   <img alt="processing" width="400px" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/sachin-choudhary-478829259/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sachin Choudhary" height="40" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://twitter.com/thesachin261204" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TheSachin261204" height="40" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://instagram.com/jaat_sachin_026" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaat Sachin 026" height="40" width="40" style="margin: 10px;" />
-  </a>
-</p>
 
-<hr style="margin: 40px 0; border: 0;#1A1D25;" />
 
+
+
+
+<h1 align="center">Skills</h1>
 <h3 align="center">Languages I Work With:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -36,8 +30,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin: 10px;" />
   </a>
 </p>
-
-<hr style="margin: 40px 0; border: 0; solid #1A1D25;" />
 
 <h3 align="center">Tools I Use:</h3>
 <p align="center">
@@ -60,7 +52,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" style="margin: 10px;" />
   </a>
 </p>
-
+<h1></h1>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=snchoudhary09&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="snchoudhary09" /> 
 </p>
@@ -76,3 +68,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snchoudhary09&show_icons=true&locale=en&layout=compact&theme=dark" alt="snchoudhary09" />
 </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachin-choudhary-478829259/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sachin Choudhary" height="40" width="40" style="margin: 10px;" />
+  </a>
+  <a href="https://twitter.com/thesachin261204" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TheSachin261204" height="40" width="40" style="margin: 10px;" />
+  </a>
+  <a href="https://instagram.com/jaat_sachin_026" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaat Sachin 026" height="40" width="40" style="margin: 10px;" />
+  </a>
+</p>
+
