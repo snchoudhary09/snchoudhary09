@@ -9,11 +9,6 @@
   <img alt="processing" width="400px" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 </div>
 
-
-
-
-
-
 <h1 align="center">Skills</h1>
 <h3 align="center">Languages I Work With:</h3>
 <p align="center">
@@ -68,7 +63,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snchoudhary09&show_icons=true&locale=en&layout=compact&theme=dark" alt="snchoudhary09" />
 </p>
-
+<h1></h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-choudhary-478829259/" target="_blank">
